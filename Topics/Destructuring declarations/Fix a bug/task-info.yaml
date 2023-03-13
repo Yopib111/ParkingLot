@@ -1,0 +1,22 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    class Article(val name: String, val pages: Int, val author: String)
+
+    fun getArticleByName(articles: MutableList<Article>, name: String): Article? {
+        var index = -1
+        for ((title, pages, author) in articles) {
+            index += 1
+            if (title == name) return articles[index]
+        }
+        return null
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9051#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 08 Mar 2023 08:08:12 UTC"
+record: -1

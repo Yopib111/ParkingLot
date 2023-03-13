@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: It's an analogue of a function which is immutable
+- text: It's a function which can be used in destructuring declarations
+- text: It's an abstract method which we can override
+- text: It's an analogue of a function which is predefined and can be overridden
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20476#comment
+status: Solved
+record: -1
+local_check: false

@@ -1,0 +1,13 @@
+<h2>Underscore</h2>
+<p></p>
+<p>Sam is an intern in a big company. Yesterday he found a complicated piece of code, which uses strange underscore characters.</p>
+<pre><code class="language-kotlin">data class Customer(val firstName: String, val lastName: String, val age: Int, val city: String)
+
+class CustomerFilter {
+    fun showCustomers(customers: MutableList&lt;Customer&gt;) {
+        for ((p1, _, p3) in customers) {
+            if (p3 in 18..27) println(p1)
+        }
+    }
+}</code></pre>
+<p>As you can see, the <code class="language-kotlin">CustomerFilter</code> performs some filters under the array of customers. Let's help Sam understand what is going on in the <code class="language-kotlin">showCustomers</code> function.</p>
