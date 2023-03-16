@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: "Pixels that invert the color components specified in their red, blue, and\
+    \ green components"
+- text: "Pixels that contain an altitude component in addition to red, blue and green\
+    \ color components"
+- text: "Pixels that contain packed red, blue, and green color components for accelerated\
+    \ rendering"
+- text: "Pixels that contain a transparency component in addition to red, blue, and\
+    \ green color components"
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16351#comment
+status: Solved
+record: -1
+local_check: false

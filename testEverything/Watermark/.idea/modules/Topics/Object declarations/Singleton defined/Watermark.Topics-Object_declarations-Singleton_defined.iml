@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Object_declarations-Singleton_defined" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Object declarations/Singleton defined" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Watermark" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Object declarations/Singleton defined">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Object declarations/Singleton defined/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Object declarations/Singleton defined/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Object declarations/Singleton defined/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

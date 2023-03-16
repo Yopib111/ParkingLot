@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun countStrings(list: List<Any>): Int {
+        // make your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/26459#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 13 Mar 2023 08:51:06 UTC"
+record: -1

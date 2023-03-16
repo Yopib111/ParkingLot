@@ -1,0 +1,20 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun convertToStringList(list: List<Any>): List<String> {
+        val stringList = mutableListOf<String>()
+        for (element in list) {
+            val stringElement = // make your code here
+            stringList.add(stringElement)
+        }
+        return stringList
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/26460#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 13 Mar 2023 09:11:12 UTC"
+record: -1

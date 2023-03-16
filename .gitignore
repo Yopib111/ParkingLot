@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/Tasklist/task/build/
+/Tasklist/task/out/
+/Tasklist/task/out/production/classes/
+/Tasklist/task/out/test/classes/
+/Topics/Kotlinx datetime library/Leap Year/out/
+/Topics/Kotlinx datetime library/Leap Year/out/production/classes/

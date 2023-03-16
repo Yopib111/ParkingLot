@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Compose a structure into tree structures and work with these structures as
+    if they were individual objects.
+- text: Construct a complex structure step by step.
+- text: Construct a structure that has only one instance with global access.
+- text: Copy existing objects without making your code dependent on their structures.
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10699#comment
+status: Solved
+record: -1
+local_check: false
